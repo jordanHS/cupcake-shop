@@ -1,3 +1,20 @@
+h1 {
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+}
+
+ul li {
+  font-size: 20px;
+}
+
+img {
+  width: 400px;
+  height: 320px;
+}
+
 .flashy {
   color: Red;
   font-style: italic;
@@ -5,5 +22,9 @@
 .best {
   color: #bb5acc;
   font-weight: bold;
+  font-family: fantasy;
+}
+.velvet {
+  color: #bf0d0d;
   font-family: cursive;
 }
