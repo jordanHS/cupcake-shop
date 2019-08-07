@@ -2,3 +2,8 @@
   color: Red;
   font-style: italic;
 }
+.best {
+  color: #bb5acc;
+  font-weight: bold;
+  font-family: cursive;
+}
